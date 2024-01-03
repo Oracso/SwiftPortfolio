@@ -8,6 +8,4 @@ Contents:
 
 
 
-# State Management in SwiftUI
-
-https://github.com/Oracso/State-Management-in-SwiftUI
+# [State Management in SwiftUI](https://github.com/Oracso/State-Management-in-SwiftUI)
