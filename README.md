@@ -3,7 +3,7 @@ This is my professional portfolio showcasing various Swift/SwiftUI applications
 
 
 Contents:
-- [State Management in SwiftUI](#State-Management-in-SwiftUI)
+- [State Management in SwiftUI](#state-management-in-swiftui)
 
 
 
