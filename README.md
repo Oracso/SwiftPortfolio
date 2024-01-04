@@ -12,12 +12,27 @@ This is my professional portfolio showcasing various Swift/SwiftUI applications
 
 # [State Management in SwiftUI](https://github.com/Oracso/State-Management-in-SwiftUI)
 
-
+or "SwiftUI State Management Template"
 
 # [Cloud Identification App]()
 
 
 # [Custom Xcode Project Template]()
-
+"Customasiable ... "
 
 # [Quick Maths App]()
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
