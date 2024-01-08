@@ -4,15 +4,15 @@ This is my professional portfolio showcasing various Swift/SwiftUI applications
 
 ### Contents:
 
-- [State Management in SwiftUI](#state-management-in-swiftui)
+- [CoreData State Management](#coredata-state-management)
 - [Cloud Identification App](#cloud-identification-app)
 - [Custom Xcode Project Template](#custom-xcode-project-template)
 - [Quick Maths App](#quick-maths-app)
 
 
-# [State Management in SwiftUI](https://github.com/Oracso/State-Management-in-SwiftUI)
+# [CoreData State Management](https://github.com/Oracso/CoreData-State-Management)
 
-or "SwiftUI State Management Template"
+
 
 # [Cloud Identification App]()
 
