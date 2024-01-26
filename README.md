@@ -53,11 +53,22 @@ My dynamic CV, designed and built within Xcode using SwiftUI.
 
 <br>
 
-## [Custom Xcode Project Template]()
+## [Custom Xcode Project Template](https://github.com/Oracso/Custom-Xcode-Project-Template)
 
 ### Overview:
 
-"Customasiable ... "
+A custom Xcode template used to dynamically generate a simple SwiftUI project.
+
+
+<p align="center">
+  <img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewResources/Screenshot1.png" width="400"  title="Choose Project Template Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewResources/Screenshot2.png" width="400"  title="Choose Template Options Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewResources/ScreenRecording1.gif" width="230" title="Project Demo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+
+
 
 <br>
 
