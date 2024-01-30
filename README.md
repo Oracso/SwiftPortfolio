@@ -6,9 +6,11 @@ This portfolio showcases a number of my Swift/SwiftUI applications.
 
 - [CoreData State Management](#coredata-state-management)
 - [SwiftUI CV](#swiftui-cv)
+- [Swift Bug Fixes](#swift-bug-fixes)
 - [Cloud Identification App](#cloud-identification-app)
 - [Custom Xcode Project Template](#custom-xcode-project-template)
 - [Quick Maths App](#quick-maths-app)
+
 
 
 ## [CoreData State Management](https://github.com/Oracso/CoreData-State-Management)
@@ -43,6 +45,7 @@ My dynamic CV, designed and built within Xcode using SwiftUI.
 <br></br>
 
 
+## [Swift Bug Fixes](https://github.com/Oracso/Swift-Bug-Fixes)
 
 
 <br>
