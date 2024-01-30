@@ -75,7 +75,7 @@ A custom Xcode template used to dynamically generate a simple SwiftUI project.
 
 <br>
 
-## [Quick Maths App]()
+## [Quick Maths App](https://github.com/Oracso/QuickMaths)
 
 ### Overview:
 
