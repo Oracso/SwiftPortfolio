@@ -23,7 +23,7 @@ An example SwiftUI project using CoreData to manage dynamic object data over tim
 
 <p align="center">
 
-  <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewResources/Screenshot1.png" width="230"  title="All Categories">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewResources/ScreenRecording1.gif" width="230"  title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewResources/Screenshot2.png" width="230"  title="Category Detail View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewResources/Screenshot3.png" width="230"  title="Editing Category">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
