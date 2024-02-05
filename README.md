@@ -10,7 +10,7 @@ This portfolio showcases a number of my Swift/SwiftUI applications.
 - [Cloud Identification App](#cloud-identification-app)
 - [Custom Xcode Project Template](#custom-xcode-project-template)
 - [Quick Maths App](#quick-maths-app)
-
+- [Watch Haptics](#watch-haptics)
 
 
 ## [CoreData State Management](https://github.com/Oracso/CoreData-State-Management)
@@ -92,7 +92,23 @@ A timed and customisable arithmetic app that facilitates post-game analysis.
 
 
 
- 
+<br>
+
+## [Watch Haptics](https://github.com/Oracso/WatchHaptics)
+
+### Overview:
+
+An independent WatchOS app that schedules customisable repeating haptic notifications
+
+<p align="center">
+<img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/ScreenRecording1.gif" width="200" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/Screenshot1.png" width="130"  title="Timers View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/Screenshot2.png" width="130"  title="Countdown Timer View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/Screenshot3.png" width="130"  title="Continuous Timer View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/Screenshot4.png" width="130"  title="Edit Interval View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
 
 
 
