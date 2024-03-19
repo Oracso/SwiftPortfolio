@@ -11,6 +11,7 @@ This portfolio showcases a number of my Swift/SwiftUI applications.
 - [Custom Xcode Project Template](#custom-xcode-project-template)
 - [Quick Maths App](#quick-maths-app)
 - [Watch Haptics](#watch-haptics)
+- [Blood Pressure Tracker](#blood-pressure-tracker)
 
 
 ## [CoreData State Management](https://github.com/Oracso/CoreData-State-Management)
@@ -98,7 +99,7 @@ A timed and customisable arithmetic app that facilitates post-game analysis.
 
 ### Overview:
 
-An independent WatchOS app that schedules customisable repeating haptic notifications
+An independent WatchOS app that schedules customisable repeating haptic notifications.
 
 <p align="center">
 <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewResources/ScreenRecording1.gif" width="200" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,7 +112,23 @@ An independent WatchOS app that schedules customisable repeating haptic notifica
 
 
 
+<br>
 
+## [Blood Pressure Tracker]()
+
+### Overview:
+
+A blood pressure application that tracks changes in readings over time.
+
+<p align="center">
+  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording2.gif" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording3.gif" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+
+<br>
 
 
 
