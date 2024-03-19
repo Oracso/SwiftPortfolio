@@ -138,8 +138,11 @@ A blood pressure application that tracks changes in readings over time.
 
 ### Overview:
 
+A catalogue of common Swift bugs and a record of my fixes for them.
 
+### Highlights:
 
+- [Nested Observable Objects](https://github.com/Oracso/Swift-Bug-Fixes/blob/main/SwiftUI/NestedObservableObjects.md)
 
 
 
