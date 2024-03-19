@@ -1,6 +1,7 @@
 # SwiftPortfolio
 This portfolio showcases a number of my Swift/SwiftUI applications.
 
+Please allow some time for the project assets to load or navigate directly to the projects README for faster viewing.
 
 ### Contents:
 
