@@ -21,8 +21,8 @@ Please allow some time for the project assets to load or navigate directly to th
 My dynamic CV, designed and built within Xcode using SwiftUI. 
 
 <p align="center">
-  <img src="https://github.com/Oracso/SwiftUI-CV/blob/main/CVTemplate/ExampleScreenshots/Page1.png" width="400"  title="CV Page 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Oracso/SwiftUI-CV/blob/main/CVTemplate/ExampleScreenshots/Page2.png" width="400"  title="CV Page 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/Page1.png" width="400"  title="CV Page 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/Page2.png" width="400"  title="CV Page 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br></br>
 
