@@ -31,8 +31,6 @@ This separation of a CV's content from its design allows users to select themes 
 Further, this approach also facilitates content version control, allowing users to easily manage multiple versions attuned to particular roles or as they are updated throughout a career. 
 
 <br>
-
-
 <p align="center">
   <img src="https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/Page1.png" width="400"  title="CV Page 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/Page2.png" width="400"  title="CV Page 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,8 +56,9 @@ Its robust architecture and modular design ensure scalability and seamless integ
 
 My optimized code streamlines and refines **CoreData** implementation, reducing the need for extensive customisation and thus allowing developers to concentrate on the core functionality on their projects.
 
-<p align="center">
 
+<br>
+<p align="center">
   <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/ScreenRecording1.gif" width="230"  title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/Screenshot2.png" width="230"  title="Category Detail View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/Screenshot3.png" width="230"  title="Editing Category">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -86,6 +85,7 @@ By typing a *struct*'s name once at the start of a project, files can be dynamic
 
 Further, *custom project templates* facilitate the creation of document directory hierarchies, reducing the time needed to structure files into pre-planned layouts.
 
+<br>
 <p align="center">
   <img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewAssets/Screenshot1.png" width="400"  title="Choose Project Template Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewAssets/Screenshot2.png" width="400"  title="Choose Template Options Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,6 +113,7 @@ A simple and intuitive interface allows for the swift deployment of either pre-c
 Utilising this application empowers users to remain informed and connected throughout their day, enriching their overall experience with Apple's wearable technology.
 
 
+<br>
 <p align="center">
 <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewAssets/ScreenRecording1.gif" width="200" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewAssets/Screenshot1.png" width="130"  title="Timers View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -147,6 +148,8 @@ A thorough statistics page offers users complete control over filtering variable
 
 Whether simply for enjoyment, for tracking and evaluating performance over time or for strengthening numerical proficiency, this app is a personalised and indispensable tool for individuals looking to promote mathematical fluency and independent learning.
 
+
+<br>
 <p align="center">
   <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot6.png" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -178,6 +181,8 @@ Empowering users with this flexibility allows them to tailor their interface to 
 
 Further, being able to tag readings with custom confounders incorporates additional contextual information that enhances the depth of understanding derived from the data.
 
+
+<br>
 <p align="center">
   <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording2.gif" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
