@@ -14,6 +14,8 @@ Please allow some time for the project assets to load or navigate directly to th
 - [Swift Bug Fixes](#swift-bug-fixes)
 <!-- - [Cloud Identification App](#cloud-identification-app) -->
 
+<br>
+
 ## [SwiftUI CV](https://github.com/Oracso/SwiftUI-CV)
 
 ### Overview:
