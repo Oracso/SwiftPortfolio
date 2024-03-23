@@ -193,6 +193,10 @@ Further, being able to tag readings with custom confounders incorporates additio
 
 A catalogue of common Swift bugs and a record of my fixes for them.
 
+### Use Case:
+
+I found it hard keeping track of all the bugs I found and my different fixes for them so I decided collate them into a *GitHub* repository. Feel free to browse and let me know if you find any bugs inside my bug fixes or have any suggestions to add. 
+
 ### Highlights:
 
 - [Nested Observable Objects](https://github.com/Oracso/Swift-Bug-Fixes/blob/main/SwiftUI/NestedObservableObjects.md)
