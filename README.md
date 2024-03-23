@@ -30,6 +30,8 @@ This separation of a CV's content from its design allows users to select themes 
 
 Further, this approach also facilitates content version control, allowing users to easily manage multiple versions attuned to particular roles or as they are updated throughout a career. 
 
+<br>
+
 
 <p align="center">
   <img src="https://github.com/Oracso/SwiftUI-CV/blob/main/PreviewAssets/Page1.png" width="400"  title="CV Page 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
