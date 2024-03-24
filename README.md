@@ -7,10 +7,10 @@ Please allow some time for the project assets to load or navigate directly to th
 
 - [SwiftUI CV](#swiftui-cv)
 - [CoreData State Management](#coredata-state-management)
+- [Blood Pressure Tracker](#blood-pressure-tracker)
+- [Quick Maths App](#quick-maths-app)
 - [Custom Xcode Project Template](#custom-xcode-project-template)
 - [Watch Haptics](#watch-haptics)
-- [Quick Maths App](#quick-maths-app)
-- [Blood Pressure Tracker](#blood-pressure-tracker)
 - [Swift Bug Fixes](#swift-bug-fixes)
 <!-- - [Cloud Identification App](#cloud-identification-app) -->
 
@@ -66,9 +66,70 @@ My optimized code streamlines and refines **CoreData** implementation, reducing 
 <br></br>
 
 
+
+
+
+<br>
+
+## [Blood Pressure Tracker](https://github.com/Oracso/BloodPressureTracker)
+
+### Overview:
+
+A customisable blood pressure app that tracks changes in readings over time.
+
+### Use Case:
+
+Customising the presentation of data in a way that is relevant and engaging is key to the creation of usable insights.
+
+This can be achieved by granting users control of filtering variables as well as providng flexibility in design and appearance.
+
+Empowering users with this flexibility allows them to tailor their interface to align with their unique requirements, facilitating a more personalised analysis.
+
+Further, being able to tag readings with custom confounders incorporates additional contextual information that enhances the depth of understanding derived from the data.
+
+
+<br>
+<p align="center">
+  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording2.gif" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording3.gif" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
 <br>
 
 
+
+
+
+## [Quick Maths App](https://github.com/Oracso/QuickMaths)
+
+### Overview:
+
+A timed and adjustable arithmetic app that enhances numerical/mathematical proficiency and provides detailed post-game analysis.
+
+### Use Case:
+
+Designed to enhance mathematical dexterity, users can choose from a variety of game types, each allowing for customisation of variables such as number range and frequency.
+
+This capability allows users to hone their skills in unique and interesting ways while receiving comprehensive post-game analysis to track progress and identify areas for improvement.
+
+A thorough statistics page offers users complete control over filtering variables, allowing them to tailor their analysis within specific parameters and display their results with intuitive graphical representations.
+
+Whether simply for enjoyment, for tracking and evaluating performance over time or for strengthening numerical proficiency, this app is a personalised and indispensable tool for individuals looking to promote mathematical fluency and independent learning.
+
+
+<br>
+<p align="center">
+  <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot6.png" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot9.png" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br></br>
+
+
+
+<br>
 
 
 ## [Custom Xcode Project Template](https://github.com/Oracso/Custom-Xcode-Project-Template)
@@ -125,70 +186,7 @@ Utilising this application empowers users to remain informed and connected throu
 
 
 
-<br>
 
-
-
-
-
-
-## [Quick Maths App](https://github.com/Oracso/QuickMaths)
-
-### Overview:
-
-A timed and adjustable arithmetic app that enhances numerical/mathematical proficiency and provides detailed post-game analysis.
-
-### Use Case:
-
-Designed to enhance mathematical dexterity, users can choose from a variety of game types, each allowing for customisation of variables such as number range and frequency.
-
-This capability allows users to hone their skills in unique and interesting ways while receiving comprehensive post-game analysis to track progress and identify areas for improvement.
-
-A thorough statistics page offers users complete control over filtering variables, allowing them to tailor their analysis within specific parameters and display their results with intuitive graphical representations.
-
-Whether simply for enjoyment, for tracking and evaluating performance over time or for strengthening numerical proficiency, this app is a personalised and indispensable tool for individuals looking to promote mathematical fluency and independent learning.
-
-
-<br>
-<p align="center">
-  <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot6.png" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot9.png" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br></br>
-
-
-
-
-
-
-
-<br>
-
-## [Blood Pressure Tracker](https://github.com/Oracso/BloodPressureTracker)
-
-### Overview:
-
-A customisable blood pressure app that tracks changes in readings over time.
-
-### Use Case:
-
-Customising the presentation of data in a way that is relevant and engaging is key to the creation of usable insights.
-
-This can be achieved by granting users control of filtering variables as well as providng flexibility in design and appearance.
-
-Empowering users with this flexibility allows them to tailor their interface to align with their unique requirements, facilitating a more personalised analysis.
-
-Further, being able to tag readings with custom confounders incorporates additional contextual information that enhances the depth of understanding derived from the data.
-
-
-<br>
-<p align="center">
-  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="App Example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording2.gif" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording3.gif" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br></br>
 
 
 <br>
