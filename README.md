@@ -20,7 +20,7 @@ Please allow some time for the project assets to load or navigate directly to th
 
 ### Overview:
 
-My **SwiftUI** CV that has been designed and built dynamically within **Xcode** using **SwiftUI**.
+My **SwiftUI** CV, designed and built dynamically within **Xcode** using **SwiftUI**.
 
 ### Use Case:
 
