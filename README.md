@@ -6,7 +6,7 @@ Please allow some time for the project assets to load or navigate directly to th
 ### Contents:
 
 - [SwiftUI CV](#swiftui-cv)
-- [CoreData State Management](#coredata-state-management)
+- [CoreData State Management Framework](#coredata-state-management-framework)
 - [Blood Pressure Tracker](#blood-pressure-tracker)
 - [Quick Maths App](#quick-maths-app)
 - [Custom Xcode Project Template](#custom-xcode-project-template)
@@ -26,9 +26,9 @@ My **SwiftUI** CV, designed and built dynamically within **Xcode** using **Swift
 
 Having a CV template that dynamically adapts to updates while maintaining its theme and structure enables CVs to be seamlessly tailored to specific job roles. 
 
-This separation of a CV's content from its design allows users to select themes contextually, keeping their CVs professional and appropriate for each application. 
+The separation of a CV's content from its design allows users to select themes contextually, keeping their CVs professional and appropriate for each application. 
 
-Further, this approach also facilitates content version control, allowing users to easily manage multiple versions attuned to particular roles or as they are updated throughout a career. 
+This approach also facilitates content version control, allowing users to easily manage multiple versions attuned to particular roles as they progress and update their CV throughout their career. 
 
 <br>
 <p align="center">
@@ -40,21 +40,21 @@ Further, this approach also facilitates content version control, allowing users 
 
 
 
-## [CoreData State Management](https://github.com/Oracso/CoreData-State-Management)
+## [CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management)
 
 ### Overview:
 
-An example **SwiftUI** project using **CoreData** to manage dynamic object data over time.
+An example **SwiftUI** project showcasing a <ins>*custom framework*</ins> implementing **CoreData** to manage dynamic object data over time.
 
 ### Use Case:
 
-This project serves as an exemplary demonstration of the extensive versatility and wide-ranging applicability of my CoreData infrastructure framework.
+This project serves as a clear demonstration of the extensive versatility and wide-ranging applicability of my **CoreData** infrastructure framework.
 
-Consisting of mainly generic code, designed to be reusable across numerous contexts, it requires minimal modification or changes before being a fully operational and adaptable solution for managing object data over time.
+Consisting of mainly generic code, designed to be reusable across numerous contexts, it requires minimal modification or changes before being a fully operational and adaptable solution for managing object state within applications.
 
 Its robust architecture and modular design ensure scalability and seamless integration, keeping it suitable for a myriad of applications across various domains and making it an invaluable asset for any development team.
 
-My optimized code streamlines and refines **CoreData** implementation, reducing the need for extensive customisation and thus allowing developers to concentrate on the core functionality on their projects.
+This optimised code streamlines and refines **CoreData** implementation, reducing the need for extensive customisation and thus allowing developers to concentrate on the core functionality of their projects.
 
 
 <br>
@@ -79,13 +79,13 @@ A customisable blood pressure app that tracks changes in readings over time.
 
 ### Use Case:
 
-Customising the presentation of data in a way that is relevant and engaging is key to the creation of usable insights.
+Customising the presentation of data in a way that is relevant and engaging is key to the creation of usable insights. 
 
-This can be achieved by granting users control of filtering variables as well as providng flexibility in design and appearance.
+This can be achieved by granting users control of filtering variables as well as providing flexibility in design and appearance. 
 
-Empowering users with this flexibility allows them to tailor their interface to align with their unique requirements, facilitating a more personalised analysis.
+Empowering users with this flexibility allows them to tailor and align their interface with their unique requirements, facilitating a more personalised analysis. 
 
-Further, being able to tag readings with custom confounders incorporates additional contextual information that enhances the depth of understanding derived from the data.
+Further, being able to tag readings with custom confounding variables incorporates additional contextual information that enhances the depth of understanding derived from the data. 
 
 
 <br>
@@ -106,7 +106,7 @@ Further, being able to tag readings with custom confounders incorporates additio
 
 ### Overview:
 
-A timed and adjustable arithmetic app that enhances numerical/mathematical proficiency and provides detailed post-game analysis.
+A timed and adjustable arithmetic app that enhances mathematical proficiency and provides detailed post-game analysis. 
 
 ### Use Case:
 
@@ -142,9 +142,9 @@ A custom Xcode project template used to dynamically generate a simple hierarchic
 
 *Custom Xcode project templates* leverage the power of dynamic file creation across an entire project. Where code snippets can be used to insert generic code, *custom Xcode file templates* allow the dynamic injection of boilerplate code within known bounds, with *custom project templates* doing the same over larger projects. 
 
-By typing a *struct*'s name once at the start of a project, files can be dynamically populated with the project ready to run using relevant nomenclature.  
+By typing a *struct*'s name once at the start of a project, files can be dynamically populated with the relevant nomenclature with the project ready to run.
 
-Further, *custom project templates* facilitate the creation of document directory hierarchies, reducing the time needed to structure files into pre-planned layouts.
+Further, *custom project templates* facilitate the creation of document directory hierarchies, reducing the time needed to organise files into preferred structures.
 
 <br>
 <p align="center">
