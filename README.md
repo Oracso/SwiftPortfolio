@@ -38,10 +38,8 @@ This approach also facilitates content version control, allowing users to easily
 
 
 <p align="center">
-<a href="">See Repository</a>
+<a href="https://github.com/Oracso/SwiftUI-CV">See Repository</a>
 </p>
-
-
 <br>
 
 
@@ -68,9 +66,11 @@ This optimised code streamlines and refines **CoreData** implementation, reducin
 <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/Screenshot2.png" width="230"  title="Category Detail View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/Screenshot3.png" width="230"  title="Editing Category">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
 
-
+<p align="center">
+<a href="">See Repository</a>
+</p>
+<br>
 
 
 
@@ -99,9 +99,13 @@ Further, being able to tag readings with custom confounding variables incorporat
   <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording2.gif" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/BloodPressureTracker/blob/main/PreviewAssets/ScreenRecording3.gif" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
 
+
+<p align="center">
+<a href="">See Repository</a>
+</p>
 <br>
+
 
 
 
@@ -130,11 +134,15 @@ Whether simply for enjoyment, for tracking and evaluating performance over time 
   <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot6.png" width="230"  title="Game Log Details">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/QuickMaths/blob/main/PreviewAssets/Screenshot9.png" width="230"  title="Statistics View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
 
 
-
+<p align="center">
+<a href="">See Repository</a>
+</p>
 <br>
+
+
+
 
 
 ## [🔗 - Custom Xcode Project Template](https://github.com/Oracso/Custom-Xcode-Project-Template)
@@ -157,12 +165,15 @@ Further, *custom project templates* facilitate the creation of document director
 <img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewAssets/Screenshot2.png" width="400"  title="Choose Template Options Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Oracso/Custom-Xcode-Project-Template/blob/main/PreviewAssets/ScreenRecording1.gif" width="230" title="Project Demo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
 
 
-
-
+<p align="center">
+<a href="">See Repository</a>
+</p>
 <br>
+
+
+
 
 ## [🔗 - Watch Haptics](https://github.com/Oracso/WatchHaptics)
 
@@ -187,13 +198,11 @@ Utilising this application empowers users to remain informed and connected throu
   <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewAssets/Screenshot3.png" width="130"  title="Continuous Timer View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Oracso/WatchHaptics/blob/main/PreviewAssets/Screenshot4.png" width="130"  title="Edit Interval View">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br></br>
 
 
-
-
-
-
+<p align="center">
+<a href="">See Repository</a>
+</p>
 <br>
 
 
