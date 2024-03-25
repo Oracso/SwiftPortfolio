@@ -16,7 +16,7 @@ Please allow some time for the project assets to load or navigate directly to th
 
 <br>
 
-## [SwiftUI CV - 🔗](https://github.com/Oracso/SwiftUI-CV)
+## [🔗 - SwiftUI CV](https://github.com/Oracso/SwiftUI-CV)
 
 ### Overview:
 
@@ -43,7 +43,7 @@ This approach also facilitates content version control, allowing users to easily
 <br>
 
 
-## [CoreData State Management Framework - 🔗](https://github.com/Oracso/CoreData-State-Management)
+## [🔗 - CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management)
 
 ### Overview:
 
@@ -76,7 +76,7 @@ This optimised code streamlines and refines **CoreData** implementation, reducin
 
 <br>
 
-## [Blood Pressure Tracker - 🔗](https://github.com/Oracso/BloodPressureTracker)
+## [🔗 - Blood Pressure Tracker](https://github.com/Oracso/BloodPressureTracker)
 
 ### Overview:
 
@@ -111,7 +111,7 @@ Further, being able to tag readings with custom confounding variables incorporat
 
 
 
-## [🔗 - Quick Maths App - 🔗](https://github.com/Oracso/QuickMaths)
+## [🔗 - Quick Maths App](https://github.com/Oracso/QuickMaths)
 
 ### Overview:
 
