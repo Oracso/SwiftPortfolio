@@ -16,7 +16,7 @@ Please allow some time for the project assets to load or navigate directly to th
 
 <br>
 
-## [SwiftUI CV](https://github.com/Oracso/SwiftUI-CV)
+## [🔗 - SwiftUI CV](https://github.com/Oracso/SwiftUI-CV)
 
 ### Overview:
 
@@ -37,10 +37,13 @@ This approach also facilitates content version control, allowing users to easily
 </p>
 <br></br>
 
+<p align="center">
+<ins><a href="">See Repository</a></ins>
+</p>
 
 
 
-## [CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management)
+## [🔗 - CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management)
 
 ### Overview:
 
@@ -71,7 +74,7 @@ This optimised code streamlines and refines **CoreData** implementation, reducin
 
 <br>
 
-## [Blood Pressure Tracker](https://github.com/Oracso/BloodPressureTracker)
+## [🔗 - Blood Pressure Tracker](https://github.com/Oracso/BloodPressureTracker)
 
 ### Overview:
 
@@ -102,7 +105,7 @@ Further, being able to tag readings with custom confounding variables incorporat
 
 
 
-## [Quick Maths App](https://github.com/Oracso/QuickMaths)
+## [🔗 - Quick Maths App](https://github.com/Oracso/QuickMaths)
 
 ### Overview:
 
@@ -132,7 +135,7 @@ Whether simply for enjoyment, for tracking and evaluating performance over time 
 <br>
 
 
-## [Custom Xcode Project Template](https://github.com/Oracso/Custom-Xcode-Project-Template)
+## [🔗 - Custom Xcode Project Template](https://github.com/Oracso/Custom-Xcode-Project-Template)
 
 ### Overview:
 
@@ -159,7 +162,7 @@ Further, *custom project templates* facilitate the creation of document director
 
 <br>
 
-## [Watch Haptics](https://github.com/Oracso/WatchHaptics)
+## [🔗 - Watch Haptics](https://github.com/Oracso/WatchHaptics)
 
 ### Overview:
 
@@ -193,7 +196,7 @@ Utilising this application empowers users to remain informed and connected throu
 
 
 
-## [Swift Bug Fixes](https://github.com/Oracso/Swift-Bug-Fixes)
+## [🔗 - Swift Bug Fixes](https://github.com/Oracso/Swift-Bug-Fixes)
 
 
 ### Overview:
@@ -208,6 +211,13 @@ I found it hard keeping track of all the bugs I found and my different fixes for
 
 - [Nested Observable Objects](https://github.com/Oracso/Swift-Bug-Fixes/blob/main/SwiftUI/NestedObservableObjects.md)
 
+
+
+
+
+<p align="center">
+<ins><a href="">See Repository</a></ins>
+</p>
 
 
 <!-- <br>
