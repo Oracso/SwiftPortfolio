@@ -68,7 +68,7 @@ This optimised code streamlines and refines **CoreData** implementation, reducin
 </p>
 
 <p align="center">
-<a href="">See Repository</a>
+<a href=https://github.com/Oracso/CoreData-State-Management">See Repository</a>
 </p>
 <br>
 
@@ -102,7 +102,7 @@ Further, being able to tag readings with custom confounding variables incorporat
 
 
 <p align="center">
-<a href="">See Repository</a>
+<a href="https://github.com/Oracso/BloodPressureTracker">See Repository</a>
 </p>
 <br>
 
@@ -137,7 +137,7 @@ Whether simply for enjoyment, for tracking and evaluating performance over time 
 
 
 <p align="center">
-<a href="">See Repository</a>
+<a href="https://github.com/Oracso/QuickMaths">See Repository</a>
 </p>
 <br>
 
@@ -168,7 +168,7 @@ Further, *custom project templates* facilitate the creation of document director
 
 
 <p align="center">
-<a href="">See Repository</a>
+<a href="https://github.com/Oracso/Custom-Xcode-Project-Template">See Repository</a>
 </p>
 <br>
 
@@ -201,7 +201,7 @@ Utilising this application empowers users to remain informed and connected throu
 
 
 <p align="center">
-<a href="">See Repository</a>
+<a href="https://github.com/Oracso/WatchHaptics">See Repository</a>
 </p>
 <br>
 
@@ -227,7 +227,7 @@ I found it hard keeping track of all the bugs I found and my different fixes for
 
 
 <p align="center">
-<ins><a href="">See Repository</a></ins>
+<ins><a href="https://github.com/Oracso/Swift-Bug-Fixes">See Repository</a></ins>
 </p>
 
 
