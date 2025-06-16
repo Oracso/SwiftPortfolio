@@ -175,7 +175,8 @@ Further, *custom project templates* facilitate the creation of document director
 
 
 
-## [🔗 - Watch Haptics](https://github.com/Oracso/WatchHaptics)
+<!-- ## [🔗 - Watch Haptics](https://github.com/Oracso/WatchHaptics) -->
+## Watch Haptics
 
 ### Overview:
 
@@ -200,10 +201,10 @@ Utilising this application empowers users to remain informed and connected throu
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/Oracso/WatchHaptics">See Repository</a>
 </p>
-<br>
+<br> -->
 
 
 
