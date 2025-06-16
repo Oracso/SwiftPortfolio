@@ -43,7 +43,8 @@ This approach also facilitates content version control, allowing users to easily
 <br>
 
 
-## [🔗 - CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management)
+<!-- ## [🔗 - CoreData State Management Framework](https://github.com/Oracso/CoreData-State-Management) -->
+## CoreData State Management Framework
 
 ### Overview:
 
@@ -67,10 +68,10 @@ This optimised code streamlines and refines **CoreData** implementation, reducin
   <img src="https://github.com/Oracso/CoreData-State-Management/blob/main/PreviewAssets/Screenshot3.png" width="230"  title="Editing Category">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href=https://github.com/Oracso/CoreData-State-Management">See Repository</a>
 </p>
-<br>
+<br> -->
 
 
 
